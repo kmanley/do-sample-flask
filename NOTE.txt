@@ -1,0 +1,2 @@
+kmanley@Kevin-T15P:~/code/do-sample-flask$ cat .venv/bin/activate
+(.venv) kmanley@Kevin-T15P:~/code/do-sample-flask$ deactivate
