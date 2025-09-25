@@ -1,4 +1,5 @@
-bind = "0.0.0.0:8080"
+#bind = "0.0.0.0:8080"
+bind = f"0.0.0.0:{os.environ.get('PORT', 8080)}"
 workers = 2
 loglevel = "info"
 #accesslog = "/var/log/gunicorn/access.log"
